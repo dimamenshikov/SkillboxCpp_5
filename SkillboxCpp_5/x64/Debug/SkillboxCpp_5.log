@@ -1,2 +1,3 @@
 ﻿  SkillboxCpp_5.cpp
+D:\Games\VisualStudioProjects\Projects\SkillboxCpp_5\SkillboxCpp_5.cpp(197,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   SkillboxCpp_5.vcxproj -> D:\Games\VisualStudioProjects\Projects\SkillboxCpp_5\x64\Debug\SkillboxCpp_5.exe
